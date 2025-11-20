@@ -1,0 +1,4 @@
+use_real_search: false
+mock_llm: true
+llm_model: gpt-4o
+publish_repo_path: published_posts
